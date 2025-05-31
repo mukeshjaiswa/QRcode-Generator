@@ -61,3 +61,20 @@ img{
 
     
 }
+@media (max-width:450px){
+    .container{
+        width: 300px;
+    }
+    input{
+        width:200px;
+       
+    }
+    button{
+        width: 200px;
+    }
+    img{
+       
+        width: 250px;
+        height: 200px;
+    }
+}

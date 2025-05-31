@@ -1,5 +1,3 @@
-
-
 let text = document.querySelector(".input");
 let btn = document.querySelector("button")
 let img = document.querySelector("img")
